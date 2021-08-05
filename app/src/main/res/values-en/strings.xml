@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlarmClockNote</string>
+    <string name="weather">Weather</string>
+    <string name="temperature_now">Temp. Now</string>
+    <string name="GOOGLE_GEOCODING_KEY">AIzaSyBCxuD-VRQgN3g5-7alOL3YR0eXZQSL4-w"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">鬧鐘筆記</string>
+    <string name="weather">天氣</string>
+    <string name="temperature_now">目前溫度</string>
+    <string name="GOOGLE_GEOCODING_KEY">AIzaSyBCxuD-VRQgN3g5-7alOL3YR0eXZQSL4-w"</string>
+</resources>
